@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+body{
+    background-image: url(img/imagem.jpg);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Dancing Script';
+    font-size: 40px;
+}
+
+div{
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 30px 40px;
+    width: 50%;
+    border-radius: 10px;
+    justify-content:center;
+    display:inline-block;
+    align-items: center;
+    margin-top: 260px;
+}
+
+p{
+    font-size: 19px;
+}
